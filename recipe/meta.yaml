@@ -1,5 +1,5 @@
 {% set name = "lammpsio" %}
-{% set version = "0.4.0" %}
+{% set version = "0.4.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/lammpsio-{{ version }}.tar.gz
-  sha256: a445159782406a5bc1a7377c727b1d77b25d310ba22357f105698aace265626b
+  sha256: 6c7a6958cafa7e3c20e6b0dc355efe7607e116df47bb9e6cfbc30a7e2857c11d
 
 build:
   noarch: python
