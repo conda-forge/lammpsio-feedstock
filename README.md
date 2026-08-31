@@ -3,11 +3,15 @@ About lammpsio-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lammpsio-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/mphowardlab/lammpsio
+Home: https://lammpsio.readthedocs.io/
 
 Package license: BSD-3-Clause
 
 Summary: Python tools for working with LAMMPS
+
+Development: https://github.com/mphowardlab/lammpsio
+
+Documentation: https://lammpsio.readthedocs.io/
 
 Current build status
 ====================
